@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteotomasinivemsolutions&hide=css,html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=matteotomasinivemsolutions&theme=default&count_private=true&show_icons=true" /></td>
-  </tr>   
-</table>
-</center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteotomasinivemsolutions&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
